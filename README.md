@@ -15,7 +15,6 @@ python -m streamlit run underwater_objects.py
 
 ## Python Libraries used
 
-- pandas
 - numpy
 - ultralytics
 - matplotlib
@@ -32,7 +31,7 @@ python -m streamlit run underwater_objects.py
 
 
 
-## Link for the dataset and Kaggle Notebook
+## Link for the dataset
 
 [Kaggle](https://www.kaggle.com/datasets/slavkoprytula/aquarium-data-cots)
 
